@@ -1,0 +1,14 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\bin\Debug\net8.0\Task.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\bin\Debug\net8.0\Task.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\bin\Debug\net8.0\Task.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\bin\Debug\net8.0\Task.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\bin\Debug\net8.0\Task.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\refint\Task.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\Task.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\Task\obj\Debug\net8.0\ref\Task.dll

@@ -1,0 +1,32 @@
+CLS : common language specification
+CTS : Common type specification
+
+data type :
+
+sbyte
+byte
+short
+ushort
+int32
+uint32
+int64
+uint64
+single
+double
+decimal
+char
+string
+boolean
+
+Naming conventions:
+
+Classnames follows PascalCasing
+local variable follows camelCasing
+public fields PascelCasing
+private fields _ with camelCasing
+identifiers names can't be keywords
+identifiers names should not have spaces
+identifiers names should not have special characters
+duplicate identifiers names not allowed
+
+

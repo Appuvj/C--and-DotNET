@@ -1,0 +1,14 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\bin\Debug\net8.0\DemoApp.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\refint\DemoApp.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\bin\Debug\net8.0\DemoApp.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\bin\Debug\net8.0\DemoApp.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\bin\Debug\net8.0\DemoApp.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\bin\Debug\net8.0\DemoApp.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\DemoApp.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\DemoApp\obj\Debug\net8.0\ref\DemoApp.dll
