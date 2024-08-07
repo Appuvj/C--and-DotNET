@@ -21,21 +21,42 @@ namespace OopsDemo;
     private static void Main(string[] args)
     {
 
-        User u1;
+        User u1,u2,u3,u4;
 
-        for (int i = 0; i < 3; i++)
-        {
+        //for (int i = 0; i < 3; i++)
+        //{
             Console.Write("enter username : ");
             string username=Console.ReadLine();
             Console.Write("Enter password : ");
             string password=Console.ReadLine();
             u1=new User(username,password);
             string result = u1.CheckLogin();
+            u1.getDetails();
             Console.WriteLine(result);
-        }
+
+        u2= new User("vijay","appuvj","guest user");
+
+        u2.getDetails();
+        result = u2.CheckLogin();
+        Console.WriteLine(result);
+
+        u3 = new User("karuppiah", "saravana", "guest user", "chennai");
+
+        u3.getDetails();
+        result = u3.CheckLogin();
+        Console.WriteLine(result);
+
+        u4 = new User("hamsa", "vanan", "loosu bunda", "chennai", false);
+
+        u4.getDetails();
+        result= u4.CheckLogin();
+        Console.WriteLine(result);
 
 
-       // Age a=new Age(2010);
+        //}
+
+
+        // Age a=new Age(2010);
 
 
         //Student s1, s2;
@@ -90,6 +111,24 @@ namespace OopsDemo;
         //Console.WriteLine("Employee salary : " + e2.employeeSalary);
 
 
+
+        // object initilazition and getter,setter method
+
+        Student s1, s2;
+        s1 = new Student() { studentId = 1, studentname = "vijay", marks = 100 };
+        s1.Age = 25;
+
+        s2 = new Student() { studentId = 2, studentname = "kumar", marks = 99 };
+
+        Console.WriteLine("studentId: " + s1.studentId);
+        Console.WriteLine("Name: " + s1.studentname);
+        Console.WriteLine("marks: " + s1.marks);
+        Console.WriteLine("Age: " + s1.Age);
+        
+        Console.WriteLine("studentId: " + s2.studentId);
+        Console.WriteLine("Name: " + s2.studentname);
+        Console.WriteLine("marks: " + s2.marks);
+        Console.WriteLine("Age: " + s2.Age);
 
 
 

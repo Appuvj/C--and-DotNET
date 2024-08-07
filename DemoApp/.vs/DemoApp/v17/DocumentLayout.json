@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{275A6674-E135-4A57-B111-5580CC3AC8FC}|Task\\Task.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{275A6674-E135-4A57-B111-5580CC3AC8FC}|Task\\Task.csproj|solutionrelative:task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{275A6674-E135-4A57-B111-5580CC3AC8FC}|Task\\Task.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\task\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{275A6674-E135-4A57-B111-5580CC3AC8FC}|Task\\Task.csproj|solutionrelative:task\\mathoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +26,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MathOperation.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Task\\MathOperation.cs",
-              "RelativeDocumentMoniker": "Task\\MathOperation.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Task\\MathOperation.cs",
-              "RelativeToolTip": "Task\\MathOperation.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCkAAAAJAAAA",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Program.cs",
+              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Program.cs",
+              "RelativeToolTip": "oopsAdvanceDemo\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T13:00:00.135Z",
+              "WhenOpened": "2024-08-07T10:10:23.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Person.cs",
+              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Person.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Person.cs",
+              "RelativeToolTip": "oopsAdvanceDemo\\Person.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:10:54.175Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Employee.cs",
+              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Employee.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Employee.cs",
+              "RelativeToolTip": "oopsAdvanceDemo\\Employee.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:14:51.881Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Task\\Program.cs",
-              "RelativeDocumentMoniker": "Task\\Program.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Task\\Program.cs",
-              "RelativeToolTip": "Task\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Student.cs",
+              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Student.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Student.cs",
+              "RelativeToolTip": "oopsAdvanceDemo\\Student.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T12:58:40.789Z",
+              "WhenOpened": "2024-08-07T10:12:25.685Z",
               "EditorCaption": ""
             }
           ]

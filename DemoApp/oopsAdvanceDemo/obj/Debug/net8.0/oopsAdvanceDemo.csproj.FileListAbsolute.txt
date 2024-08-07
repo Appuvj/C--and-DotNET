@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\bin\Debug\net8.0\oopsAdvanceDemo.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\bin\Debug\net8.0\oopsAdvanceDemo.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\bin\Debug\net8.0\oopsAdvanceDemo.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\bin\Debug\net8.0\oopsAdvanceDemo.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\bin\Debug\net8.0\oopsAdvanceDemo.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\refint\oopsAdvanceDemo.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\oopsAdvanceDemo.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\oopsAdvanceDemo\obj\Debug\net8.0\ref\oopsAdvanceDemo.dll
