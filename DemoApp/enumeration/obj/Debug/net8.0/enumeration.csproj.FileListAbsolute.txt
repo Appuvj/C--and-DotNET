@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\bin\Debug\net8.0\enumeration.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\bin\Debug\net8.0\enumeration.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\bin\Debug\net8.0\enumeration.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\bin\Debug\net8.0\enumeration.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\bin\Debug\net8.0\enumeration.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\refint\enumeration.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\enumeration.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\enumeration\obj\Debug\net8.0\ref\enumeration.dll

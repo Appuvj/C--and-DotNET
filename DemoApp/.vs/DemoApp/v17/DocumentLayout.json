@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F2A594A6-FB21-446D-A377-1765D013185C}|ListTask\\ListTask.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\listtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2A594A6-FB21-446D-A377-1765D013185C}|ListTask\\ListTask.csproj|solutionrelative:listtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\oopsadvancedemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AD34824-9ECD-4F0C-BAD6-C49C6CBB25D5}|oopsAdvanceDemo\\oopsAdvanceDemo.csproj|solutionrelative:oopsadvancedemo\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D1E03B7-3C98-40AA-8548-9D5E3E26C53D}|Collection\\Collection.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D1E03B7-3C98-40AA-8548-9D5E3E26C53D}|Collection\\Collection.csproj|solutionrelative:collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,60 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Program.cs",
-              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Program.cs",
-              "RelativeToolTip": "oopsAdvanceDemo\\Program.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCAAAAAwAAAA",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\ListTask\\Program.cs",
+              "RelativeDocumentMoniker": "ListTask\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\ListTask\\Program.cs",
+              "RelativeToolTip": "ListTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T10:10:23.388Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Person.cs",
-              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Person.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Person.cs",
-              "RelativeToolTip": "oopsAdvanceDemo\\Person.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T10:10:54.175Z",
-              "IsPinned": true,
+              "WhenOpened": "2024-08-12T09:36:45.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Employee.cs",
-              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Employee.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Employee.cs",
-              "RelativeToolTip": "oopsAdvanceDemo\\Employee.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Collection\\Program.cs",
+              "RelativeDocumentMoniker": "Collection\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\Collection\\Program.cs",
+              "RelativeToolTip": "Collection\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwD4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T10:14:51.881Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Student.cs",
-              "RelativeDocumentMoniker": "oopsAdvanceDemo\\Student.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\oopsAdvanceDemo\\Student.cs",
-              "RelativeToolTip": "oopsAdvanceDemo\\Student.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T10:12:25.685Z",
+              "WhenOpened": "2024-08-12T08:42:06.3Z",
               "EditorCaption": ""
             }
           ]
