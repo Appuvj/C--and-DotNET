@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\bin\Debug\net8.0\shape.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\bin\Debug\net8.0\shape.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\bin\Debug\net8.0\shape.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\bin\Debug\net8.0\shape.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\bin\Debug\net8.0\shape.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\refint\shape.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\shape.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\shape\obj\Debug\net8.0\ref\shape.dll

@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\bin\Debug\net8.0\dict.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\bin\Debug\net8.0\dict.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\bin\Debug\net8.0\dict.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\bin\Debug\net8.0\dict.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\bin\Debug\net8.0\dict.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\refint\dict.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\dict.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\dict\obj\Debug\net8.0\ref\dict.dll

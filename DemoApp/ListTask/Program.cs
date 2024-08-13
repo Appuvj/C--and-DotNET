@@ -103,7 +103,7 @@ class Program
                 Console.WriteLine("Enter the product you want to remove");
                 string remove = Console.ReadLine();
 
-                if (products.Any(p => p.Equals(remove, StringComparison.OrdinalIgnoreCase)))
+                if (products.Contains(remove))
                 {
 
                     products.Remove(remove);
