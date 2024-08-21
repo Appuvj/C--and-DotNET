@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\bin\Debug\net8.0\delegates.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\bin\Debug\net8.0\delegates.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\bin\Debug\net8.0\delegates.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\bin\Debug\net8.0\delegates.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\bin\Debug\net8.0\delegates.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\refint\delegates.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\delegates.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\DemoApp\delegates\obj\Debug\net8.0\ref\delegates.dll

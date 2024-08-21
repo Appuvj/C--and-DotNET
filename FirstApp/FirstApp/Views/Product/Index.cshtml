@@ -1,0 +1,23 @@
+﻿@model Product
+
+@{
+    ViewData["Title"] = "Product Information";
+}
+<table align="center" border="1" >
+    <th colspan="2" style="text-align:center">Product Details</th>
+    <tr>
+        <th>Product ID: </th>
+        <td>@Model.Product_Id</td>
+    </tr>
+    <tr>
+        <th>Product Name: </th>
+        <td>@Model.Product_Name</td>
+    </tr><tr>
+        <th>Product Price: </th>
+        <td>@Model.Product_Price</td>
+    </tr><tr>
+        <th>Product Description: </th>
+        <td>@Model.Product_Description</td>
+    </tr>
+
+</table>

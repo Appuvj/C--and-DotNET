@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\shape\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|solutionrelative:shape\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|solutionrelative:shape\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\shape\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D43DD7AC-1BA0-4F30-9489-FF6B16B3B4F6}|shape\\shape.csproj|solutionrelative:shape\\rect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68099C35-00E9-4B84-BDCF-EA91DD171ACD}|delegates\\delegates.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\demoapp\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68099C35-00E9-4B84-BDCF-EA91DD171ACD}|delegates\\delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Square.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Square.cs",
-              "RelativeDocumentMoniker": "shape\\Square.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Square.cs",
-              "RelativeToolTip": "shape\\Square.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:56:51.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Rect.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Rect.cs",
-              "RelativeDocumentMoniker": "shape\\Rect.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Rect.cs",
-              "RelativeToolTip": "shape\\Rect.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:56:37.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IShape.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\IShape.cs",
-              "RelativeDocumentMoniker": "shape\\IShape.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\IShape.cs",
-              "RelativeToolTip": "shape\\IShape.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:56:20.401Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Program.cs",
-              "RelativeDocumentMoniker": "shape\\Program.cs",
-              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\shape\\Program.cs",
-              "RelativeToolTip": "shape\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\delegates\\Program.cs",
+              "RelativeDocumentMoniker": "delegates\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\DemoApp\\delegates\\Program.cs",
+              "RelativeToolTip": "delegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-13T10:51:41.758Z",
+              "WhenOpened": "2024-08-16T06:09:34.988Z",
               "EditorCaption": ""
             }
           ]
