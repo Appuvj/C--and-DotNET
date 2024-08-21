@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "EFCRUDDemo\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:25:36.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "EFCRUDDemo\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T10:39:56.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "EFCRUDDemo\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:36:50.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "EFCRUDDemo\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T07:19:11.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T06:31:08.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Views\\Department\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "EFCRUDDemo\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T09:32:33.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Controllers\\DepartmentController.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0QAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:58:14.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompanyContext.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\CompanyContext.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Models\\CompanyContext.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\CompanyContext.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Models\\CompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:26:08.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\Employee.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:22:30.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Program.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Program.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:33:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EFCRUDDemo\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\Department.cs",
+              "RelativeToolTip": "EFCRUDDemo\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T05:21:21.517Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

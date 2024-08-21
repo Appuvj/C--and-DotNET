@@ -1,20 +1,30 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WebApp.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace WebApp.Controllers
 {
     public class HomeController : Controller
     {
+        private CompanyContext companyContext;
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, CompanyContext cc)
         {
             _logger = logger;
+            companyContext = cc;
+           
         }
 
         public IActionResult Index()
         {
+            var dept= new Department()
+            {
+                Name = "Information Technology"
+            };
+            companyContext.Entry(dept).State=EntityState.Added;
+            companyContext.SaveChanges();
             return View();
         }
 
