@@ -1,0 +1,15 @@
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.AssemblyInfoInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.AssemblyInfo.cs
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.csproj.CoreCompileInputs.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.sourcelink.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\bin\Debug\net8.0\ExceptionProject.exe
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\bin\Debug\net8.0\ExceptionProject.deps.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\bin\Debug\net8.0\ExceptionProject.runtimeconfig.json
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\bin\Debug\net8.0\ExceptionProject.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\bin\Debug\net8.0\ExceptionProject.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\refint\ExceptionProject.dll
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.pdb
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ExceptionProject.genruntimeconfig.cache
+C:\Users\vijaykumar.v\Desktop\C# and DotNET\ExceptionProject\ExceptionProject\obj\Debug\net8.0\ref\ExceptionProject.dll

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|solutionrelative:efcruddemo\\models\\companycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5875A998-0CBF-41B6-92A0-CFE224DB1B9E}|EFCRUDDemo\\EFCRUDDemo.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\efcruddemo\\efcruddemo\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
@@ -106,13 +106,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "EFCRUDDemo\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "EFCRUDDemo\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAD8AAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-21T06:31:08.653Z",
               "EditorCaption": ""
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "EFCRUDDemo\\Controllers\\DepartmentController.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CompanyContext.cs",
               "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\EFCRUDDemo\\EFCRUDDemo\\Models\\CompanyContext.cs",
               "RelativeDocumentMoniker": "EFCRUDDemo\\Models\\CompanyContext.cs",
@@ -151,7 +151,8 @@
               "RelativeToolTip": "EFCRUDDemo\\Models\\CompanyContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T05:26:08.391Z"
+              "WhenOpened": "2024-08-21T05:26:08.391Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

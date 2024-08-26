@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\ExceptionProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40E4CDAD-9051-43C9-B885-A694AF1649D6}|ExceptionProject\\ExceptionProject.csproj|c:\\users\\vijaykumar.v\\desktop\\c# and dotnet\\exceptionproject\\exceptionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40E4CDAD-9051-43C9-B885-A694AF1649D6}|ExceptionProject\\ExceptionProject.csproj|solutionrelative:exceptionproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\ExceptionProject\\ExceptionProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionProject\\Program.cs",
+              "ToolTip": "C:\\Users\\vijaykumar.v\\Desktop\\C# and DotNET\\ExceptionProject\\ExceptionProject\\Program.cs",
+              "RelativeToolTip": "ExceptionProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T05:14:29.737Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
